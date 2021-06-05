@@ -1,3 +1,7 @@
+![Danar Putra github stats](https://github-readme-stats.vercel.app/api?username=danarputra&show_icons=true&theme=solarized-light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danarputra&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @danarputra
 - 👀 I’m interested in learning Android with Flutter and Javascript
 - 🌱 I’m currently learning Flutter with Dart
